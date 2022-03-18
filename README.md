@@ -1,7 +1,7 @@
 # conwaysgol: Conway's Game of Life implemented in Go
 
 Basic usage:
-```
+```go
 package main
 
 import (
